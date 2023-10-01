@@ -39,3 +39,18 @@ python3 eval_cifar.py standard.pth
 python3 eval_cifar.py -e equivariant.pth
 ```
 Pay attention to use the '-e' switch with the equivariant version.
+
+## Reference
+If you find our work useful, please cite our paper:
+```
+@article{cotogni2022offset,
+  title={Offset equivariant networks and their applications},
+  author={Cotogni, Marco and Cusano, Claudio},
+  journal={Neurocomputing},
+  volume={502},
+  pages={110--119},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
